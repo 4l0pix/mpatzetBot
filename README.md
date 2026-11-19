@@ -3,6 +3,7 @@
 [Greek guide](README.el.md)
 
 Log expenses, income, repayments and savings in a private Telegram chat. The bot records them in Google Sheets, reads each saved entry back, and sends an acknowledgment in Greek with an undo command. Google Apps Script checks Telegram about once a minute, including while your computer is off.
+![Sheet Example](image1.png)
 
 ## 1. Prepare the Google Sheet
 
