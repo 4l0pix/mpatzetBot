@@ -89,4 +89,4 @@ Run `npm test` from this repository with Node.js 18 or later. The tests simulate
 
 [Telegram Bot API](https://core.telegram.org/bots/api) · [Google Apps Script triggers](https://developers.google.com/apps-script/guides/triggers/installable)
 
-#### Final Code Note: I am not a full time Google Apps Script thus I heavily relied on AI assistance for this project. 
+#### Final Code Note: I am not a full time Google Apps Script developer thus I heavily relied on AI assistance for this project. 
